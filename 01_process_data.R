@@ -115,7 +115,7 @@ treat2<-function(dim.from,dim.to){
 
 d$Articles<-treat2(dr$Articles.from)
 
-#Here we can continue in the same way (either treat1 or treat2), most variable fit tnto one of these two categories
+#Here we can continue in the same way (either treat1 or treat2), most variables fit tnto one of these two categories
 d$Atlatl<-treat2(dr$Atlatl.from)
 d$Battle.axes<-treat2(dr$Battle.axes.from)
 d$Breastplates<-treat2(dr$Breastplates.from)
