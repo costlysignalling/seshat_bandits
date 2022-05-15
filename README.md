@@ -24,3 +24,7 @@ There are **5 possible outputs**
 **5: Indicator binary data filled**: The mean imputation is done in the same way as above, so the sum for each pair of present×absent columns is 1.
 
 **In these datasets, 1:4 columns are identifiers, 5:8 are still "utility function" variables, 9:56 expanded quntitative variables (each level as column), 57:66 expanded multistate variables, 67:291 binary variables**
+
+**02_autoencoders.R** fits a few autoencoder neural networks to teh data and compares the results. Than you can take one of them (100-3-100 used to construct the exemplar structure **culturespace2_autoencoders.txt**)
+
+**03_visualize** is a set of simple visualization functions and their implementation on the resulting culturespace (notice an almost universal U-turn from one corner of the cube to the other as seen on the exemplar .tiffs).
