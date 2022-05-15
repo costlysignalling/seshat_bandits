@@ -9,6 +9,7 @@ It a good idea to start from the **autoencoders_seshat.Rproj** file - it will op
 
 
 There are **5 possible outputs**
+
 **1: Just labels** (treats absent as "absent" and nominal allegiance in suprapolity relations as " nominal allegiance ")
 
 **2: Numeric data not filled** (simply "absent" is 0, "present" is 1, ordered variables - they are not many - are assigned the steps - e.g. "nominal allegiance" corresponds to 2 in the respective variable)
