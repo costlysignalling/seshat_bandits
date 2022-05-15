@@ -16,7 +16,7 @@ There are **5 possible outputs**
 
 **3: Numeric data filled** (the missing data are filled with the arithmetic mean) just for the record: Filling the data with arithmetic mean is stupid (early missing data are overrepresented), but we will fix this later :D For now we need to have quick anything.
 
-**In these datasets, 1:4 columns are identifiers (place, time), 5:8 are "utility function" noncultural variables (popsize etc), 9:13 quntitative variables (mostly levels), 14:15 multistate variables, 16:128 (end) simple binary variables
+**In these datasets, 1:4 columns are identifiers (place, time), 5:8 are "utility function" noncultural variables (popsize etc), 9:13 quntitative variables (mostly levels), 14:15 multistate variables, 16:128 (end) simple binary variables**
 
 
 
