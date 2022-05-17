@@ -27,4 +27,14 @@ There are **5 possible outputs**
 
 **02_autoencoders.R** fits a few autoencoder neural networks to teh data and compares the results. Than you can take one of them (100-3-100 used to construct the exemplar structure **culturespace2_autoencoders.txt**)
 
-**03_visualize** is a set of simple visualization functions and their implementation on the resulting culturespace (notice an almost universal U-turn from one corner of the cube to the other as seen on the exemplar .tiffs).
+**03_visualize.R** is a set of simple visualization functions and their implementation on the resulting culturespace (notice an almost universal U-turn from one corner of the cube to the other as seen on the exemplar .tiffs).
+
+**04_order_timeplaces.R** cretaes nice polity timeline visulaization on linear and logarithmic scales.
+
+**05_animation.R** contains the moving equivalents of plots in 03 using the packgake animation, .pdf and .mp4 files can be exported using this code
+
+
+Separate folders (Human Designed Dimension: **HDD**, Exploratory Factor Analysis: **EFA**, Multiple Correspondence Analysis: **MCA**, Principle Component Analysis: **PCA**) contain code that is equivalent to 02. They can be used to construct different culturespaces.
+The folder **Correlations between spaces** contains code for the coparison between the results.
+
+
