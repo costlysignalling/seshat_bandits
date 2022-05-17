@@ -1,0 +1,164 @@
+"Variable"	"ShortName"	"Section"	"Subsection"	"Category"	"VarNumber"
+"Polity Population"	"PolPop"	"Social Complexity variables"	"Social Scale"	"scale"	1
+"Polity territory"	"PolTerr"	"Social Complexity variables"	"Social Scale"	"scale"	2
+"Population of the largest settlement"	"CapPop"	"Social Complexity variables"	"Social Scale"	"scale"	3
+"Administrative levels"	"AdmLev"	"Social Complexity variables"	"Hierarchical Complexity"	"levels"	4
+"Military levels"	"MilLev"	"Social Complexity variables"	"Hierarchical Complexity"	"levels"	5
+"Religious levels"	"ReligLev"	"Social Complexity variables"	"Hierarchical Complexity"	"levels"	6
+"Settlement hierarchy"	"SettlHier"	"Social Complexity variables"	"Hierarchical Complexity"	"levels"	7
+"Professional military officers"	"ProfOfficer"	"Social Complexity variables"	"Professions"	"government"	8
+"Professional soldiers"	"ProfSoldier"	"Social Complexity variables"	"Professions"	"government"	9
+"Professional priesthood"	"ProfPriest"	"Social Complexity variables"	"Professions"	"government"	10
+"Full-time bureaucrats"	"FullTBur"	"Social Complexity variables"	"Bureaucracy characteristics"	"government"	11
+"Examination system"	"ExamSyst"	"Social Complexity variables"	"Bureaucracy characteristics"	"government"	12
+"Merit promotion"	"MeritProm"	"Social Complexity variables"	"Bureaucracy characteristics"	"government"	13
+"Specialized government buildings"	"GovtBldg"	"Social Complexity variables"	"Bureaucracy characteristics"	"government"	14
+"Courts"	"Court"	"Social Complexity variables"	"Law"	"government"	15
+"Formal legal code"	"LegCode"	"Social Complexity variables"	"Law"	"government"	16
+"Judges"	"Judge"	"Social Complexity variables"	"Law"	"government"	17
+"Professional Lawyers"	"Lawyer"	"Social Complexity variables"	"Law"	"government"	18
+"irrigation systems"	"Irrigation"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	19
+"drinking water supply systems"	"WaterSuppl"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	20
+"markets"	"Market"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	21
+"food storage sites"	"FoodStor"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	22
+"Roads"	"Road"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	23
+"Bridges"	"Bridge"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	24
+"Canals"	"Canal"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	25
+"Ports"	"Port"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	26
+"Mines or quarries"	"Mine"	"Social Complexity variables"	"Specialized Buildings: polity owned"	"infrastruct"	27
+"Couriers"	"Courier"	"Social Complexity variables"	"Other"	"infrastruct"	28
+"Postal stations"	"PostStation"	"Social Complexity variables"	"Other"	"infrastruct"	29
+"General postal service"	"PostService"	"Social Complexity variables"	"Other"	"infrastruct"	30
+"Mnemonic devices"	"Mnemonic"	"Social Complexity variables"	"Information"	"writing"	31
+"Nonwritten records"	"NonWRecord"	"Social Complexity variables"	"Information"	"writing"	32
+"Written records"	"WRecord"	"Social Complexity variables"	"Information"	"writing"	33
+"Script"	"Script"	"Social Complexity variables"	"Information"	"writing"	34
+"Non-phonetic writing"	"NonPhWrit"	"Social Complexity variables"	"Information"	"writing"	35
+"Phonetic alphabetic writing"	"PhAlph"	"Social Complexity variables"	"Information"	"writing"	36
+"Lists tables and classifications"	"Lists"	"Social Complexity variables"	"Information"	"writing"	37
+"Calendar"	"Calendar"	"Social Complexity variables"	"Information"	"texts"	38
+"Sacred Texts"	"SacrTxt"	"Social Complexity variables"	"Information"	"texts"	39
+"Religious literature"	"ReligLit"	"Social Complexity variables"	"Information"	"texts"	40
+"Practical literature"	"PractLit"	"Social Complexity variables"	"Information"	"texts"	41
+"History"	"History"	"Social Complexity variables"	"Information"	"texts"	42
+"Philosophy"	"Philosophy"	"Social Complexity variables"	"Information"	"texts"	43
+"Scientific literature"	"SciLit"	"Social Complexity variables"	"Information"	"texts"	44
+"Fiction"	"Fiction"	"Social Complexity variables"	"Information"	"texts"	45
+"Articles"	"Article"	"Social Complexity variables"	"Other"	"money"	46
+"Tokens"	"Token"	"Social Complexity variables"	"Other"	"money"	47
+"Precious metals"	"PrecMetal"	"Social Complexity variables"	"Other"	"money"	48
+"Foreign coins"	"ForCoin"	"Social Complexity variables"	"Other"	"money"	49
+"Indigenous coins"	"IndigCoin"	"Social Complexity variables"	"Other"	"money"	50
+"Paper currency"	"PaperCurr"	"Social Complexity variables"	"Other"	"money"	51
+"Copper"	"Copper"	"Warfare variables"	"MilTech"	"MilMetal"	52
+"Bronze"	"Bronze"	"Warfare variables"	"MilTech"	"MilMetal"	53
+"Iron"	"Iron"	"Warfare variables"	"MilTech"	"MilMetal"	54
+"Steel"	"Steel"	"Warfare variables"	"MilTech"	"MilMetal"	55
+"Javelins"	"Javelin"	"Warfare variables"	"MilTech"	"MilProj"	56
+"Atlatl"	"Atlatl"	"Warfare variables"	"MilTech"	"MilProj"	57
+"Slings"	"Sling"	"Warfare variables"	"MilTech"	"MilProj"	58
+"Self bow"	"SelfBow"	"Warfare variables"	"MilTech"	"MilProj"	59
+"Composite bow"	"CompBow"	"Warfare variables"	"MilTech"	"MilProj"	60
+"Crossbow"	"Crossbow"	"Warfare variables"	"MilTech"	"MilProj"	61
+"Tension siege engines"	"TensSiege"	"Warfare variables"	"MilTech"	"MilProj"	62
+"Sling siege engines"	"SlingSiege"	"Warfare variables"	"MilTech"	"MilProj"	63
+"Gunpowder siege artillery"	"Artillery"	"Warfare variables"	"MilTech"	"MilProj"	64
+"Handheld firearms"	"HandGun"	"Warfare variables"	"MilTech"	"MilProj"	65
+"War clubs"	"WarClub"	"Warfare variables"	"MilTech"	"Weapon"	66
+"Battle axes"	"BattleAxe"	"Warfare variables"	"MilTech"	"Weapon"	67
+"Daggers"	"Dagger"	"Warfare variables"	"MilTech"	"Weapon"	68
+"Swords"	"Sword"	"Warfare variables"	"MilTech"	"Weapon"	69
+"Spears"	"Spear"	"Warfare variables"	"MilTech"	"Weapon"	70
+"Polearms"	"Polearm"	"Warfare variables"	"MilTech"	"Weapon"	71
+"Dogs"	"Dog"	"Warfare variables"	"MilTech"	"MilAnimal"	72
+"Donkeys"	"Donkey"	"Warfare variables"	"MilTech"	"MilAnimal"	73
+"Horses"	"Horse"	"Warfare variables"	"MilTech"	"MilAnimal"	74
+"Camels"	"Camel"	"Warfare variables"	"MilTech"	"MilAnimal"	75
+"Elephants"	"Elephant"	"Warfare variables"	"MilTech"	"MilAnimal"	76
+"Other"	"Other"	"Warfare variables"	"MilTech"	"MilAnimal"	77
+"Wood bark etc"	"WoodArmor"	"Warfare variables"	"MilTech"	"Armor"	78
+"Leather cloth"	"LeathArmor"	"Warfare variables"	"MilTech"	"Armor"	79
+"Shields"	"Shield"	"Warfare variables"	"MilTech"	"Armor"	80
+"Helmets"	"Helmet"	"Warfare variables"	"MilTech"	"Armor"	81
+"Breastplates"	"Breastplate"	"Warfare variables"	"MilTech"	"Armor"	82
+"Limb protection"	"LimbProt"	"Warfare variables"	"MilTech"	"Armor"	83
+"Chainmail"	"Chainmail"	"Warfare variables"	"MilTech"	"Armor"	84
+"Scaled armor"	"ScaleArmor"	"Warfare variables"	"MilTech"	"Armor"	85
+"Laminar armor"	"LaminArmor"	"Warfare variables"	"MilTech"	"Armor"	86
+"Plate armor"	"PlateArmor"	"Warfare variables"	"MilTech"	"Armor"	87
+"Small vessels (canoes etc)"	"SmallVessel"	"Warfare variables"	"MilTech"	"Naval"	88
+"Merchant ships pressed into service"	"Merchant"	"Warfare variables"	"MilTech"	"Naval"	89
+"Specialized military vessels"	"SpecVessel"	"Warfare variables"	"MilTech"	"Naval"	90
+"Settlements in a defensive position"	"DefPosition"	"Warfare variables"	"Fortifications"	"MilFort"	91
+"Wooden palisades"	"Palisade"	"Warfare variables"	"Fortifications"	"MilFort"	92
+"Earth ramparts"	"Rampart"	"Warfare variables"	"Fortifications"	"MilFort"	93
+"Ditch"	"Ditch"	"Warfare variables"	"Fortifications"	"MilFort"	94
+"Moat"	"Moat"	"Warfare variables"	"Fortifications"	"MilFort"	95
+"Stone walls (non-mortared)"	"NonMStone"	"Warfare variables"	"Fortifications"	"MilFort"	96
+"Stone walls (mortared)"	"StoneWall"	"Warfare variables"	"Fortifications"	"MilFort"	97
+"Fortified camps"	"FortCamp"	"Warfare variables"	"Fortifications"	"MilFort"	98
+"Complex fortifications"	"ComplxFort"	"Warfare variables"	"Fortifications"	"MilFort"	99
+"Long walls"	"LongWall"	"Warfare variables"	"Fortifications"	"MilFort"	100
+"Modern fortifications"	"ModernFort"	"Warfare variables"	"Fortifications"	"MilFort"	101
+"Standing armies"	"StandArmy"	"Warfare variables"	"Military Organization"	"MilOrg"	102
+"Uniformity of equipment"	"UnifEquip"	"Warfare variables"	"Military Organization"	"MilOrg"	103
+"Army size"	"ArmySize"	"Warfare variables"	"Military Organization"	"MilQuant"	104
+"Largest fielded army"	"LargestArmy"	"Warfare variables"	"Military Organization"	"MilQuant"	105
+"Maximum logistical lag"	"MaxLogLag"	"Warfare variables"	"Military Organization"	"MilQuant"	106
+"Inter-polity wars"	"ExternalW"	"Warfare variables"	"Types of Warfare"	"WarType"	107
+"Internal wars"	"InternalW"	"Warfare variables"	"Types of Warfare"	"WarType"	108
+"Intra-elite conflicts"	"IntraElitW"	"Warfare variables"	"Types of Warfare"	"WarType"	109
+"Popular uprisings"	"PopUprising"	"Warfare variables"	"Types of Warfare"	"WarType"	110
+"Military revolts"	"MilRevolt"	"Warfare variables"	"Types of Warfare"	"WarType"	111
+"Separatist rebellions"	"SepRebellion"	"Warfare variables"	"Types of Warfare"	"WarType"	112
+"Wars within same ethnic group"	"EthnicW"	"Warfare variables"	"Cultural Distance"	"WarDist"	113
+"Wars involving groups with different dialects"	"DiffDialectW"	"Warfare variables"	"Cultural Distance"	"WarDist"	114
+"Wars involving groups with different languages"	"DiffLangW"	"Warfare variables"	"Cultural Distance"	"WarDist"	115
+"Wars involving groups with different language families"	"DiffLFamW"	"Warfare variables"	"Cultural Distance"	"WarDist"	116
+"Wars between groups from different archaeological cultures"	"DiffArchW"	"Warfare variables"	"Cultural Distance"	"WarDist"	117
+"Wars between different religious sects"	"DiffCultW"	"Warfare variables"	"Cultural Distance"	"WarDist"	118
+"Wars between different world religions"	"DiffReligW"	"Warfare variables"	"Cultural Distance"	"WarDist"	119
+"Wars of world religion against tribal religion"	"ReligTribW"	"Warfare variables"	"Cultural Distance"	"WarDist"	120
+"Wars on Civilization/Barbarism frontier"	"CivBarbW"	"Warfare variables"	"Cultural Distance"	"WarDist"	121
+"Wars on steppe frontier"	"StepFrontW"	"Warfare variables"	"Cultural Distance"	"WarDist"	122
+"Wars on agricultural frontier"	"AgriFrontW"	"Warfare variables"	"Cultural Distance"	"WarDist"	123
+"Annexation"	"Annexation"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	124
+"Looting"	"Looting"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	125
+"Sack"	"Sack"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	126
+"Rape"	"Rape"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	127
+"Enslavement"	"Enslavement"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	128
+"Imprisonment"	"Imprisonment"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	129
+"Destruction"	"Destruction"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	130
+"Torture"	"Torture"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	131
+"Mutilation"	"Mutilation"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	132
+"Targeted massacre"	"TargMassacre"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	133
+"General massacre"	"GenMassacre"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	134
+"Extermination"	"Extermination"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	135
+"Ethnocide"	"Ethnocide"	"Warfare variables"	"Intensity of warfare"	"WarIntensity"	136
+"Skeletal evidence of violence"	"SkeletViol"	"Warfare variables"	"Warfare Archaeological Proxies"	"ArchWar"	137
+"Mass burials"	"MassBurial"	"Warfare variables"	"Warfare Archaeological Proxies"	"ArchWar"	138
+"Settlement destruction"	"SettlDestr"	"Warfare variables"	"Warfare Archaeological Proxies"	"ArchWar"	139
+"Pictorial evidence of warfare"	"PictorialW"	"Warfare variables"	"Warfare Archaeological Proxies"	"ArchWar"	140
+"elite status is hereditary"	"HeredStatus"	"Social Complexity variables"	"Status"	"Stratification"	141
+"formal system of hereditary social status"	"FormalHStatus"	"Social Complexity variables"	"Status"	"Stratification"	142
+"elite status is selected"	"SelectStatus"	"Social Complexity variables"	"Status"	"Stratification"	143
+"Ideological reinforcement of equality"	"IdEqual"	"Religion and Normative Ideology"	"Normative Ideological Aspects of Equity and Prosociality"	"AA"	144
+"Ideological thought equates elites and commoners"	"IdElitCom"	"Religion and Normative Ideology"	"Normative Ideological Aspects of Equity and Prosociality"	"AA"	145
+"Ideological thought equates rulers and commoners"	"IdRuleCom"	"Religion and Normative Ideology"	"Normative Ideological Aspects of Equity and Prosociality"	"AA"	146
+"Ideology reinforces prosociality"	"IdProsocial"	"Religion and Normative Ideology"	"Normative Ideological Aspects of Equity and Prosociality"	"AA"	147
+"production of public goods"	"PublGoods"	"Religion and Normative Ideology"	"Normative Ideological Aspects of Equity and Prosociality"	"AA"	148
+"Rulers are legitimated by gods"	"RuleLegGods"	"Religion and Normative Ideology"	"Deification of Rulers"	"AA"	149
+"Rulers are gods"	"RuleGods"	"Religion and Normative Ideology"	"Deification of Rulers"	"AA"	150
+"Constraint on executive by government"	"ConstrGov"	"Institutional Variables"	"Limits on Power of the Chief Executive"	"AA"	151
+"Constraint on executive by non-government"	"ConstrNonGov"	"Institutional Variables"	"Limits on Power of the Chief Executive"	"AA"	152
+"Impeachment"	"Impeach"	"Institutional Variables"	"Limits on Power of the Chief Executive"	"AA"	153
+"Moral concern is primary"	"PrimaryMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	154
+"Moralizing enforcement is certain"	"CertainMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	155
+"Moralizing norms are broad"	"BroadMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	156
+"Moralizing enforcement is targeted"	"TargetedMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	157
+"Moralizing enforcement of rulers"	"RulerMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	158
+"Moralizing religion adopted by elites"	"ElitesMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	159
+"Moralizing religion adopted by commoners"	"CommonersMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	160
+"Moralizing enforcement in afterlife"	"AfterlifeMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	161
+"Moralizing enforcement in this life"	"ThislifeMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	162
+"Moralizing enforcement is agentic"	"AgencyMSP"	"Religion and Normative Ideology"	"Moralizing Supernatural Powers"	"MSP"	163
